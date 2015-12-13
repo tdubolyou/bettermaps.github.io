@@ -22,6 +22,6 @@ npm install
 ```
 
 To run the project locally with live reload
-   ```js
-   gulp
-   ```
+```js
+gulp
+```
