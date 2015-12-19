@@ -73,6 +73,9 @@ span.article-title::after {
 
 h1.title {
     font-size: 40px;
+    color: #2F4F4F;
+    text-shadow: 2px 2px #84BCBC;
+    letter-spacing: 4px;
 }
 
 a {
@@ -95,7 +98,7 @@ a {
 
 .button:hover {
     color: red;
-    background: #ccc;
+    background: #E3F5F5;
 }
 .button {
     text-decoration: none;
