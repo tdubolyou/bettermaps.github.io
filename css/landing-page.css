@@ -158,7 +158,7 @@ a:focus {
 }
 
 .content-section-b {
-    padding: 50px 0;
+    padding: 25px ;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
@@ -229,6 +229,8 @@ a:focus {
     color: #808284;
     background: url(../img/topo-01.png) no-repeat center center;
     background-size: cover;
+    border-top:solid 1px #808284;
+    
 }
 
 .banner h2 {
@@ -269,14 +271,28 @@ a:focus {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+    
+
+    }
+
+
+.names{
+  margin-left: 23%;
+    margin-top: 5%
+}
 }
 
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
     
+    
 }
 
 p.copyright {
     margin: 15px 0 0;
+    text-align: center;
+}
+ul.menu_bottom{
+    text-align: center;
 }
